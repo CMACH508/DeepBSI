@@ -1,0 +1,178 @@
+Table S1. The detailed information of the dataset.							
+tfname	cellline	Experiment_accession	File_accession	File_format	File_format_type	File_assembly	File_download_URL
+CTCF	A549	ENCSR000DPF	ENCFF001XLL	bed broadPeak	hotspots	hg19	https://www.encodeproject.org/files/ENCFF001XLL/@@download/ENCFF001XLL.bed.gz
+CTCF	A549	ENCSR000DPF	ENCFF001XLN	bed broadPeak	hotspots	hg19	https://www.encodeproject.org/files/ENCFF001XLN/@@download/ENCFF001XLN.bed.gz
+CTCF	A549	ENCSR000DPF	ENCFF002DBU	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF002DBU/@@download/ENCFF002DBU.bed.gz
+CTCF	A549	ENCSR000DPF	ENCFF413SFF	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF413SFF/@@download/ENCFF413SFF.bigWig
+CTCF	GM12878	ENCSR000DRZ	ENCFF001XPJ	bed broadPeak	hotspots	hg19	https://www.encodeproject.org/files/ENCFF001XPJ/@@download/ENCFF001XPJ.bed.gz
+CTCF	GM12878	ENCSR000DRZ	ENCFF001XPK	bed broadPeak	hotspots	hg19	https://www.encodeproject.org/files/ENCFF001XPK/@@download/ENCFF001XPK.bed.gz
+CTCF	GM12878	ENCSR000DRZ	ENCFF002DCM	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF002DCM/@@download/ENCFF002DCM.bed.gz
+CTCF	GM12878	ENCSR000DRZ	ENCFF886KRA	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF886KRA/@@download/ENCFF886KRA.bigWig
+CTCF	HeLa-S3	ENCSR000DUB	ENCFF001XQV	bed broadPeak	hotspots	hg19	https://www.encodeproject.org/files/ENCFF001XQV/@@download/ENCFF001XQV.bed.gz
+CTCF	HeLa-S3	ENCSR000DUB	ENCFF001XQW	bed broadPeak	hotspots	hg19	https://www.encodeproject.org/files/ENCFF001XQW/@@download/ENCFF001XQW.bed.gz
+CTCF	HeLa-S3	ENCSR000DUB	ENCFF002DCW	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF002DCW/@@download/ENCFF002DCW.bed.gz
+CTCF	HeLa-S3	ENCSR000DUB	ENCFF004JXY	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF004JXY/@@download/ENCFF004JXY.bigWig
+CTCF	HepG2	ENCSR000BIE	ENCFF001UFO	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UFO/@@download/ENCFF001UFO.bed.gz
+CTCF	HepG2	ENCSR000BIE	ENCFF001UFP	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UFP/@@download/ENCFF001UFP.bed.gz
+CTCF	HepG2	ENCSR000BIE	ENCFF804LNZ	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF804LNZ/@@download/ENCFF804LNZ.bigWig
+CTCF	HepG2	ENCSR000BIE	ENCFF237OKO	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF237OKO/@@download/ENCFF237OKO.bed.gz
+CTCF	K562	ENCSR000BPJ	ENCFF001UJL	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UJL/@@download/ENCFF001UJL.bed.gz
+CTCF	K562	ENCSR000BPJ	ENCFF001UJM	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UJM/@@download/ENCFF001UJM.bed.gz
+CTCF	K562	ENCSR000BPJ	ENCFF085HTY	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF085HTY/@@download/ENCFF085HTY.bed.gz
+CTCF	K562	ENCSR000BPJ	ENCFF014YLT	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF014YLT/@@download/ENCFF014YLT.bigWig
+EP300	GM12878	ENCSR000BHB	ENCFF001TXW	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001TXW/@@download/ENCFF001TXW.bed.gz
+EP300	GM12878	ENCSR000BHB	ENCFF001TXX	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001TXX/@@download/ENCFF001TXX.bed.gz
+EP300	GM12878	ENCSR000BHB	ENCFF508TEV	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF508TEV/@@download/ENCFF508TEV.bigWig
+EP300	GM12878	ENCSR000BHB	ENCFF302XID	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF302XID/@@download/ENCFF302XID.bed.gz
+EP300	H1	ENCSR000BKK	ENCFF001UBU	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UBU/@@download/ENCFF001UBU.bed.gz
+EP300	H1	ENCSR000BKK	ENCFF001UBV	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UBV/@@download/ENCFF001UBV.bed.gz
+EP300	H1	ENCSR000BKK	ENCFF887SOZ	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF887SOZ/@@download/ENCFF887SOZ.bigWig
+EP300	H1	ENCSR000BKK	ENCFF843SYD	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF843SYD/@@download/ENCFF843SYD.bed.gz
+EP300	HepG2	ENCSR000BLW	ENCFF001UHA	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UHA/@@download/ENCFF001UHA.bed.gz
+EP300	HepG2	ENCSR000BLW	ENCFF001UHB	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UHB/@@download/ENCFF001UHB.bed.gz
+EP300	HepG2	ENCSR000BLW	ENCFF547POU	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF547POU/@@download/ENCFF547POU.bed.gz
+EP300	HepG2	ENCSR000BLW	ENCFF582IFA	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF582IFA/@@download/ENCFF582IFA.bigWig
+EP300	K562	ENCSR000EGE	ENCFF152DJG	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF152DJG/@@download/ENCFF152DJG.bigWig
+EP300	K562	ENCSR000EGE	ENCFF549TYR	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF549TYR/@@download/ENCFF549TYR.bed.gz
+EP300	MCF-7	ENCSR000BTR	ENCFF001UNJ	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UNJ/@@download/ENCFF001UNJ.bed.gz
+EP300	MCF-7	ENCSR000BTR	ENCFF001UNK	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UNK/@@download/ENCFF001UNK.bed.gz
+EP300	MCF-7	ENCSR000BTR	ENCFF190QHF	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF190QHF/@@download/ENCFF190QHF.bigWig
+EP300	MCF-7	ENCSR000BTR	ENCFF532YDL	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF532YDL/@@download/ENCFF532YDL.bed.gz
+GABPA	H1	ENCSR000BIW	ENCFF001UBI	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UBI/@@download/ENCFF001UBI.bed.gz
+GABPA	H1	ENCSR000BIW	ENCFF001UBJ	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UBJ/@@download/ENCFF001UBJ.bed.gz
+GABPA	H1	ENCSR000BIW	ENCFF357VRF	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF357VRF/@@download/ENCFF357VRF.bigWig
+GABPA	H1	ENCSR000BIW	ENCFF894MNP	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF894MNP/@@download/ENCFF894MNP.bed.gz
+GABPA	HeLa-S3	ENCSR000BHS	ENCFF001UEW	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UEW/@@download/ENCFF001UEW.bed.gz
+GABPA	HeLa-S3	ENCSR000BHS	ENCFF001UEX	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UEX/@@download/ENCFF001UEX.bed.gz
+GABPA	HeLa-S3	ENCSR000BHS	ENCFF889TCJ	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF889TCJ/@@download/ENCFF889TCJ.bigWig
+GABPA	HeLa-S3	ENCSR000BHS	ENCFF793BVO	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF793BVO/@@download/ENCFF793BVO.bed.gz
+GABPA	HepG2	ENCSR000BJK	ENCFF001UGA	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UGA/@@download/ENCFF001UGA.bed.gz
+GABPA	HepG2	ENCSR000BJK	ENCFF001UGB	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UGB/@@download/ENCFF001UGB.bed.gz
+GABPA	HepG2	ENCSR000BJK	ENCFF176POX	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF176POX/@@download/ENCFF176POX.bigWig
+GABPA	HepG2	ENCSR000BJK	ENCFF065EPE	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF065EPE/@@download/ENCFF065EPE.bed.gz
+GABPA	K562	ENCSR000BLO	ENCFF001UJZ	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UJZ/@@download/ENCFF001UJZ.bed.gz
+GABPA	K562	ENCSR000BLO	ENCFF001UKA	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UKA/@@download/ENCFF001UKA.bed.gz
+GABPA	K562	ENCSR000BLO	ENCFF833FCO	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF833FCO/@@download/ENCFF833FCO.bed.gz
+GABPA	K562	ENCSR000BLO	ENCFF869WSZ	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF869WSZ/@@download/ENCFF869WSZ.bigWig
+GABPA	MCF-7	ENCSR000BUK	ENCFF001UMV	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UMV/@@download/ENCFF001UMV.bed.gz
+GABPA	MCF-7	ENCSR000BUK	ENCFF001UMW	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UMW/@@download/ENCFF001UMW.bed.gz
+GABPA	MCF-7	ENCSR038RXU	ENCFF951LTU	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF951LTU/@@download/ENCFF951LTU.bigWig
+GABPA	MCF-7	ENCSR038RXU	ENCFF575FVP	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF575FVP/@@download/ENCFF575FVP.bed.gz
+JUN	A549	ENCSR996DUT	ENCFF665NJI	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF665NJI/@@download/ENCFF665NJI.bigWig
+JUN	A549	ENCSR996DUT	ENCFF708LCH	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF708LCH/@@download/ENCFF708LCH.bed.gz
+JUN	HeLa-S3	ENCSR000EDG	ENCFF000XCD	bigWig	signal	hg19	https://www.encodeproject.org/files/ENCFF000XCD/@@download/ENCFF000XCD.bigWig
+JUN	HeLa-S3	ENCSR000EDG	ENCFF002CSD	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF002CSD/@@download/ENCFF002CSD.bed.gz
+JUN	HepG2	ENCSR000EEK	ENCFF357FTO	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF357FTO/@@download/ENCFF357FTO.bigWig
+JUN	HepG2	ENCSR000EEK	ENCFF121UYS	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF121UYS/@@download/ENCFF121UYS.bed.gz
+JUN	K562	ENCSR000EFS	ENCFF780KHA	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF780KHA/@@download/ENCFF780KHA.bigWig
+JUN	K562	ENCSR000EFS	ENCFF629BFI	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF629BFI/@@download/ENCFF629BFI.bed.gz
+JUN	MCF-7	ENCSR176EXN	ENCFF314KRZ	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF314KRZ/@@download/ENCFF314KRZ.bed.gz
+JUN	MCF-7	ENCSR176EXN	ENCFF884CSA	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF884CSA/@@download/ENCFF884CSA.bigWig
+MYC	A549	ENCSR000DYC	ENCFF976FUZ	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF976FUZ/@@download/ENCFF976FUZ.bigWig
+MYC	A549	ENCSR000DYC	ENCFF502JKO	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF502JKO/@@download/ENCFF502JKO.bed.gz
+MYC	GM12878	ENCSR000DKU	ENCFF000ROJ	bigWig	signal	hg19	https://www.encodeproject.org/files/ENCFF000ROJ/@@download/ENCFF000ROJ.bigWig
+MYC	GM12878	ENCSR000DKU	ENCFF002DAI	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF002DAI/@@download/ENCFF002DAI.bed.gz
+MYC	HeLa-S3	ENCSR000EZD	ENCFF609BPN	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF609BPN/@@download/ENCFF609BPN.bigWig
+MYC	HeLa-S3	ENCSR000EZD	ENCFF950LQM	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF950LQM/@@download/ENCFF950LQM.bed.gz
+MYC	K562	ENCSR000EGJ	ENCFF790FHL	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF790FHL/@@download/ENCFF790FHL.bigWig
+MYC	K562	ENCSR000EGJ	ENCFF465JKF	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF465JKF/@@download/ENCFF465JKF.bed.gz
+MYC	MCF-7	ENCSR000DMJ	ENCFF553VXD	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF553VXD/@@download/ENCFF553VXD.bigWig
+MYC	MCF-7	ENCSR000DMJ	ENCFF021KDL	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF021KDL/@@download/ENCFF021KDL.bed.gz
+POLR2A	GM12878	ENCSR000BGD	ENCFF001TYI	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001TYI/@@download/ENCFF001TYI.bed.gz
+POLR2A	GM12878	ENCSR000BGD	ENCFF001TYJ	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001TYJ/@@download/ENCFF001TYJ.bed.gz
+POLR2A	GM12878	ENCSR000BGD	ENCFF368HBX	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF368HBX/@@download/ENCFF368HBX.bigWig
+POLR2A	GM12878	ENCSR000BGD	ENCFF120VUT	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF120VUT/@@download/ENCFF120VUT.bed.gz
+POLR2A	H1	ENCSR000BHN	ENCFF001UBY	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UBY/@@download/ENCFF001UBY.bed.gz
+POLR2A	H1	ENCSR000BHN	ENCFF001UBZ	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UBZ/@@download/ENCFF001UBZ.bed.gz
+POLR2A	H1	ENCSR000BHN	ENCFF339CZB	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF339CZB/@@download/ENCFF339CZB.bigWig
+POLR2A	H1	ENCSR000BHN	ENCFF468LYO	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF468LYO/@@download/ENCFF468LYO.bed.gz
+POLR2A	HeLa-S3	ENCSR000BGO	ENCFF001UFA	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UFA/@@download/ENCFF001UFA.bed.gz
+POLR2A	HeLa-S3	ENCSR000BGO	ENCFF001UFB	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UFB/@@download/ENCFF001UFB.bed.gz
+POLR2A	HeLa-S3	ENCSR000BGO	ENCFF959MZN	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF959MZN/@@download/ENCFF959MZN.bigWig
+POLR2A	HeLa-S3	ENCSR000BGO	ENCFF417LLT	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF417LLT/@@download/ENCFF417LLT.bed.gz
+POLR2A	HepG2	ENCSR000BJM	ENCFF001UHE	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UHE/@@download/ENCFF001UHE.bed.gz
+POLR2A	HepG2	ENCSR000BJM	ENCFF001UHF	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UHF/@@download/ENCFF001UHF.bed.gz
+POLR2A	HepG2	ENCSR000BJM	ENCFF800QHJ	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF800QHJ/@@download/ENCFF800QHJ.bigWig
+POLR2A	HepG2	ENCSR000BJM	ENCFF992LSQ	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF992LSQ/@@download/ENCFF992LSQ.bed.gz
+POLR2A	K562	ENCSR000BMR	ENCFF001UKT	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UKT/@@download/ENCFF001UKT.bed.gz
+POLR2A	K562	ENCSR000BMR	ENCFF001UKU	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UKU/@@download/ENCFF001UKU.bed.gz
+POLR2A	K562	ENCSR000BMR	ENCFF519VFR	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF519VFR/@@download/ENCFF519VFR.bigWig
+POLR2A	K562	ENCSR000BMR	ENCFF947KPB	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF947KPB/@@download/ENCFF947KPB.bed.gz
+RAD21	A549	ENCSR000BUC	ENCFF001TTJ	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001TTJ/@@download/ENCFF001TTJ.bed.gz
+RAD21	A549	ENCSR000BUC	ENCFF001TTK	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001TTK/@@download/ENCFF001TTK.bed.gz
+RAD21	A549	ENCSR000DYE	ENCFF458OJS	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF458OJS/@@download/ENCFF458OJS.bigWig
+RAD21	A549	ENCSR000DYE	ENCFF958VNQ	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF958VNQ/@@download/ENCFF958VNQ.bed.gz
+RAD21	GM12878	ENCSR000BMY	ENCFF001TYQ	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001TYQ/@@download/ENCFF001TYQ.bed.gz
+RAD21	GM12878	ENCSR000BMY	ENCFF001TYR	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001TYR/@@download/ENCFF001TYR.bed.gz
+RAD21	GM12878	ENCSR000BMY	ENCFF567EGK	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF567EGK/@@download/ENCFF567EGK.bigWig
+RAD21	GM12878	ENCSR000BMY	ENCFF753RGL	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF753RGL/@@download/ENCFF753RGL.bed.gz
+RAD21	H1	ENCSR000BLD	ENCFF001UCC	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UCC/@@download/ENCFF001UCC.bed.gz
+RAD21	H1	ENCSR000BLD	ENCFF001UCE	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UCE/@@download/ENCFF001UCE.bed.gz
+RAD21	H1	ENCSR000BLD	ENCFF491HEO	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF491HEO/@@download/ENCFF491HEO.bigWig
+RAD21	H1	ENCSR000BLD	ENCFF824FIL	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF824FIL/@@download/ENCFF824FIL.bed.gz
+RAD21	HepG2	ENCSR000BLS	ENCFF001UHG	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UHG/@@download/ENCFF001UHG.bed.gz
+RAD21	HepG2	ENCSR000BLS	ENCFF001UHH	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UHH/@@download/ENCFF001UHH.bed.gz
+RAD21	HepG2	ENCSR000BLS	ENCFF941EXK	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF941EXK/@@download/ENCFF941EXK.bigWig
+RAD21	HepG2	ENCSR000BLS	ENCFF072UEX	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF072UEX/@@download/ENCFF072UEX.bed.gz
+RAD21	MCF-7	ENCSR000BTQ	ENCFF001UNN	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UNN/@@download/ENCFF001UNN.bed.gz
+RAD21	MCF-7	ENCSR000BTQ	ENCFF001UNO	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UNO/@@download/ENCFF001UNO.bed.gz
+RAD21	MCF-7	ENCSR703TNG	ENCFF199WOT	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF199WOT/@@download/ENCFF199WOT.bigWig
+RAD21	MCF-7	ENCSR703TNG	ENCFF846JKX	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF846JKX/@@download/ENCFF846JKX.bed.gz
+REST	GM12878	ENCSR000BGF	ENCFF001TXU	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001TXU/@@download/ENCFF001TXU.bed.gz
+REST	GM12878	ENCSR000BGF	ENCFF001TXV	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001TXV/@@download/ENCFF001TXV.bed.gz
+REST	GM12878	ENCSR000BGF	ENCFF833UPI	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF833UPI/@@download/ENCFF833UPI.bigWig
+REST	GM12878	ENCSR000BGF	ENCFF048JKT	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF048JKT/@@download/ENCFF048JKT.bed.gz
+REST	H1	ENCSR000BHM	ENCFF001UBS	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UBS/@@download/ENCFF001UBS.bed.gz
+REST	H1	ENCSR000BHM	ENCFF001UBT	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UBT/@@download/ENCFF001UBT.bed.gz
+REST	H1	ENCSR000BHM	ENCFF507XFK	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF507XFK/@@download/ENCFF507XFK.bigWig
+REST	H1	ENCSR000BHM	ENCFF453HPD	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF453HPD/@@download/ENCFF453HPD.bed.gz
+REST	HeLa-S3	ENCSR000BMN	ENCFF001UEY	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UEY/@@download/ENCFF001UEY.bed.gz
+REST	HeLa-S3	ENCSR000BMN	ENCFF001UEZ	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UEZ/@@download/ENCFF001UEZ.bed.gz
+REST	HeLa-S3	ENCSR000BMN	ENCFF710PXV	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF710PXV/@@download/ENCFF710PXV.bigWig
+REST	HeLa-S3	ENCSR000BMN	ENCFF932CSV	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF932CSV/@@download/ENCFF932CSV.bed.gz
+REST	HepG2	ENCSR000BJL	ENCFF001UGW	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UGW/@@download/ENCFF001UGW.bed.gz
+REST	HepG2	ENCSR000BJL	ENCFF001UGX	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UGX/@@download/ENCFF001UGX.bed.gz
+REST	HepG2	ENCSR000BJL	ENCFF153JLK	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF153JLK/@@download/ENCFF153JLK.bed.gz
+REST	HepG2	ENCSR000BJL	ENCFF843JOP	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF843JOP/@@download/ENCFF843JOP.bigWig
+REST	K562	ENCSR000BMW	ENCFF001UKN	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UKN/@@download/ENCFF001UKN.bed.gz
+REST	K562	ENCSR000BMW	ENCFF001UKO	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UKO/@@download/ENCFF001UKO.bed.gz
+REST	K562	ENCSR000BMW	ENCFF518QUW	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF518QUW/@@download/ENCFF518QUW.bigWig
+REST	K562	ENCSR000BMW	ENCFF558VPP	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF558VPP/@@download/ENCFF558VPP.bed.gz
+SIN3A	GM12878	ENCSR000DYX	ENCFF747GCR	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF747GCR/@@download/ENCFF747GCR.bigWig
+SIN3A	GM12878	ENCSR000DYX	ENCFF778DJD	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF778DJD/@@download/ENCFF778DJD.bed.gz
+SIN3A	H1	ENCSR000BIS	ENCFF001UCG	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UCG/@@download/ENCFF001UCG.bed.gz
+SIN3A	H1	ENCSR000BIS	ENCFF001UCH	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UCH/@@download/ENCFF001UCH.bed.gz
+SIN3A	H1	ENCSR000BIS	ENCFF247OQT	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF247OQT/@@download/ENCFF247OQT.bigWig
+SIN3A	H1	ENCSR000BIS	ENCFF820OMK	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF820OMK/@@download/ENCFF820OMK.bed.gz
+SIN3A	HepG2	ENCSR000BGL	ENCFF001UHK	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UHK/@@download/ENCFF001UHK.bed.gz
+SIN3A	HepG2	ENCSR000BGL	ENCFF001UHL	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UHL/@@download/ENCFF001UHL.bed.gz
+SIN3A	HepG2	ENCSR000BGL	ENCFF413KSB	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF413KSB/@@download/ENCFF413KSB.bigWig
+SIN3A	HepG2	ENCSR000BGL	ENCFF786HHN	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF786HHN/@@download/ENCFF786HHN.bed.gz
+SIN3A	K562	ENCSR000BLR	ENCFF001UKZ	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UKZ/@@download/ENCFF001UKZ.bed.gz
+SIN3A	K562	ENCSR000BLR	ENCFF001ULA	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001ULA/@@download/ENCFF001ULA.bed.gz
+SIN3A	K562	ENCSR000BLR	ENCFF520DLY	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF520DLY/@@download/ENCFF520DLY.bigWig
+SIN3A	K562	ENCSR000BLR	ENCFF803COK	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF803COK/@@download/ENCFF803COK.bed.gz
+SIN3A	MCF-7	ENCSR000BUM	ENCFF001UNP	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UNP/@@download/ENCFF001UNP.bed.gz
+SIN3A	MCF-7	ENCSR000BUM	ENCFF001UNQ	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UNQ/@@download/ENCFF001UNQ.bed.gz
+SIN3A	MCF-7	ENCSR468LUO	ENCFF580NQL	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF580NQL/@@download/ENCFF580NQL.bed.gz
+SIN3A	MCF-7	ENCSR468LUO	ENCFF502ZFP	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF502ZFP/@@download/ENCFF502ZFP.bigWig
+TAF1	GM12878	ENCSR000BGS	ENCFF001TZG	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001TZG/@@download/ENCFF001TZG.bed.gz
+TAF1	GM12878	ENCSR000BGS	ENCFF001TZH	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001TZH/@@download/ENCFF001TZH.bed.gz
+TAF1	GM12878	ENCSR000BGS	ENCFF411THR	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF411THR/@@download/ENCFF411THR.bigWig
+TAF1	GM12878	ENCSR000BGS	ENCFF544NRC	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF544NRC/@@download/ENCFF544NRC.bed.gz
+TAF1	H1	ENCSR000BHO	ENCFF001UCS	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UCS/@@download/ENCFF001UCS.bed.gz
+TAF1	H1	ENCSR000BHO	ENCFF001UCT	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UCT/@@download/ENCFF001UCT.bed.gz
+TAF1	H1	ENCSR000BHO	ENCFF151BKM	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF151BKM/@@download/ENCFF151BKM.bigWig
+TAF1	H1	ENCSR000BHO	ENCFF202SNU	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF202SNU/@@download/ENCFF202SNU.bed.gz
+TAF1	HeLa-S3	ENCSR000BHT	ENCFF001UFC	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UFC/@@download/ENCFF001UFC.bed.gz
+TAF1	HeLa-S3	ENCSR000BHT	ENCFF001UFD	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UFD/@@download/ENCFF001UFD.bed.gz
+TAF1	HeLa-S3	ENCSR000BHT	ENCFF891SYJ	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF891SYJ/@@download/ENCFF891SYJ.bigWig
+TAF1	HeLa-S3	ENCSR000BHT	ENCFF305QDB	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF305QDB/@@download/ENCFF305QDB.bed.gz
+TAF1	HepG2	ENCSR000BJN	ENCFF001UHS	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UHS/@@download/ENCFF001UHS.bed.gz
+TAF1	HepG2	ENCSR000BJN	ENCFF001UHT	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001UHT/@@download/ENCFF001UHT.bed.gz
+TAF1	HepG2	ENCSR000BJN	ENCFF580VSV	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF580VSV/@@download/ENCFF580VSV.bigWig
+TAF1	HepG2	ENCSR000BJN	ENCFF345GZF	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF345GZF/@@download/ENCFF345GZF.bed.gz
+TAF1	K562	ENCSR000BKS	ENCFF001ULN	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001ULN/@@download/ENCFF001ULN.bed.gz
+TAF1	K562	ENCSR000BKS	ENCFF001ULO	bed broadPeak	peaks	hg19	https://www.encodeproject.org/files/ENCFF001ULO/@@download/ENCFF001ULO.bed.gz
+TAF1	K562	ENCSR000BKS	ENCFF488POX	bigWig	fold change over control	hg19	https://www.encodeproject.org/files/ENCFF488POX/@@download/ENCFF488POX.bigWig
+TAF1	K562	ENCSR000BKS	ENCFF822FWM	bed narrowPeak	optimal IDR thresholded peaks	hg19	https://www.encodeproject.org/files/ENCFF822FWM/@@download/ENCFF822FWM.bed.gz
